@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.5.0",
-    "generatedAt": "2026-10-08T02:39:06.027901537Z",
+    "version": "1.6.0",
+    "generatedAt": "2026-10-08T02:39:35.999545707Z",
     "templateType": "trip_e",
     "propertyId": "1b9cd168-bbe3-42c9-be14-a745d5cf959a",
     "homepageId": "80244944-71c2-4990-9c71-8c77c01181fa"
@@ -29,6 +29,9 @@
     "domain": "eospension.co.kr",
     "realtimeBookingId": "https://www.bookingplay.co.kr/booking/1/11346",
     "ybsId": "75167",
+    "tripPropertyId": "11346",
+    "partnerType": "distributor_b",
+    "tripProviderName": "트립일레븐",
     "amenities": [
       "흡연구역(지정장소)",
       "주차장"
@@ -424,10 +427,7 @@
         "surrounding": [ ],
         "commonArea": [ ]
       }
-    ],
-    "tripPropertyId": "11346",
-    "partnerType": "distributor_b",
-    "tripProviderName": "트립일레븐"
+    ]
   },
   "rooms": [
     {
