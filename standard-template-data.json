@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.8.0",
-    "generatedAt": "2026-10-09T08:26:08.010275741Z",
+    "version": "1.9.0",
+    "generatedAt": "2026-10-20T15:55:38.890143598Z",
     "templateType": "trip_e",
     "propertyId": "1b9cd168-bbe3-42c9-be14-a745d5cf959a",
     "homepageId": "80244944-71c2-4990-9c71-8c77c01181fa"
@@ -71,11 +71,52 @@
     },
     "facilities": [
       {
+        "id": "01a15a06-5962-7032-876e-48dac285587d",
+        "name": "리버뷰",
+        "description": "객실에서 바라보는 리버뷰를 통해\n잔잔하게 흐르는 강의 풍경을 감상하며 여유로운 휴식을 즐겨보세요.",
+        "usageGuide": "",
+        "displayOrder": 0,
+        "images": [
+          {
+            "id": "01a15a06-668f-7aa9-a647-d8aee5b5b568",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a15a06-5962-7032-876e-48dac285587d/main/1792511730648-uf39td4hbg.webp",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a15a06-66ff-7bd9-909e-6c60b06daa62",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a15a06-5962-7032-876e-48dac285587d/main/1792511730653-lnqyz7xx89.webp",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a15a06-65af-737c-84fc-150e86fbc105",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a15a06-5962-7032-876e-48dac285587d/main/1792511730655-3dxiesiy9m.webp",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a15a06-66f5-7a08-9d03-43777e70fdf6",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a15a06-5962-7032-876e-48dac285587d/main/1792511730652-jyg1xisb55.webp",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
+      },
+      {
         "id": "edee7c97-842e-4efc-a77e-8b7aaf96138e",
         "name": "공용수영장",
         "description": "",
         "usageGuide": "- 이용 객실: 전객실 \n- 운영 계절: 하절기\n- 운영 기간: 5월 24일 ~ 10월 11일\n- 온도: 냉수\n- 이용 요금: 무료\n- 이용 시간: 10:00 ~ 20:00\n- 이용 복장: 수영복, 래쉬가드, 색빠지지 않는 간편한 복장 \n- 수영장 크기: 12m x 6m x 1.3m\n※ 다이빙 절대 금지\n※ 영유아, 어린이 보호자 동반입장 필수\n※ 오일 바를 시 수영장 출입 불가\n※ 위 사항을 어겨 사고 발생하여도 민,형사 책임지지 않음",
-        "displayOrder": 0,
+        "displayOrder": 1,
         "images": [
           {
             "id": "162e7182-1d00-4ec8-9c9e-305570c315e1",
@@ -124,7 +165,7 @@
         "name": "스파",
         "description": "",
         "usageGuide": "- 이용 객실: 제이스105, 로렌스106, 에로스107, 끌레르201, 세비나205, 스카이207\n- 스파 형태: 월풀스파\n- 이용 요금: 무료\n- 이용 시간: 입실 후 ~ 23:00\n- 입욕제 사용: 불가",
-        "displayOrder": 1,
+        "displayOrder": 2,
         "images": [
           {
             "id": "ae5f28c2-495b-4813-a39c-fef1f83dfe96",
@@ -157,7 +198,7 @@
         "name": "개별바베큐",
         "description": "",
         "usageGuide": "- 이용 객실: 전객실\n- 이용 장소: 야외바베큐장\n- 바베큐 형태: 숯불\n- 이용 요금: 숯+그릴  2~4인 20,000원, 추가 1인 당 5,000원 & 2층 원적외선 로스타그릴 바비큐 2인 10,000원 / 4인 20,000원(1박기준/현장결제)\n- 신청 시간:  입실 후 ~ 22:00\n- 준비 소요시간: 30분\n- 이용 시간: 입실 후 ~ 23:00\n- 우천 시: 이용 가능\n- 동계 시: 이용 가능\n- 강풍 시: 이용 가능\n※ 개인 바베큐 장비 사용 불가(개인 그릴, 화로대, 숯, 장작 등)",
-        "displayOrder": 2,
+        "displayOrder": 3,
         "images": [
           {
             "id": "5d362faa-5057-4aef-abf8-38fb16375506",
@@ -190,7 +231,7 @@
         "name": "공용바베큐",
         "description": "",
         "usageGuide": "- 이용 객실: 전객실\n- 이용 장소: 야외바베큐장\n- 바베큐 형태: 숯불\n- 이용 요금: 숯+그릴  2~4인 20,000원, 추가 1인 당 5,000원 & 2층 원적외선 로스타그릴 바비큐 2인 10,000원 / 4인 20,000원(1박기준/현장결제)\n- 신청 시간:  입실 후 ~ 22:00\n- 준비 소요시간: 30분\n- 이용 시간: 입실 후 ~ 23:00\n- 우천 시: 이용 가능\n- 동계 시: 이용 가능\n- 강풍 시: 이용 가능\n※ 개인 바베큐 장비 사용 불가(개인 그릴, 화로대, 숯, 장작 등)",
-        "displayOrder": 3,
+        "displayOrder": 4,
         "images": [
           {
             "id": "70c85f7a-5eeb-4bc3-8608-c29821325dc1",
@@ -223,7 +264,7 @@
         "name": "불멍",
         "description": "",
         "usageGuide": "- 이용 객실: 전객실\n- 이용 장소: 야외 지정된 장소 \n- 이용 요금: 1set-30,000원 / 장작 추가시 5,000원(1박기준/현장결제)\n- 이용 시간: 입실 후 ~23:00",
-        "displayOrder": 4,
+        "displayOrder": 5,
         "images": [
           {
             "id": "b080a1cf-c192-42ef-b2f9-e3b17e0f62ac",
@@ -256,7 +297,7 @@
         "name": "운동시설",
         "description": "",
         "usageGuide": "[족구장/ 농구장]\n- 무료\n- 이용시간 : 입실 후 ~ 일몰 전까지",
-        "displayOrder": 5,
+        "displayOrder": 6,
         "images": [
           {
             "id": "b04e580c-54c1-45b0-8465-844fe835cde6",
@@ -278,6 +319,47 @@
             "id": "38f01ee6-c154-4768-a961-b780772238af",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/4b73dd5f-950d-4c02-a5eb-73f7a9f03556/main/1787637007951-mbjm8pv8lb.jpg",
             "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
+      },
+      {
+        "id": "01a15a06-5964-76f9-bada-c4d818be3ab1",
+        "name": "수상레저",
+        "description": "시원한 바람을 느끼며\n짜릿한 액티비티의 즐거움을 만끽해보세요.",
+        "usageGuide": "",
+        "displayOrder": 7,
+        "images": [
+          {
+            "id": "01a15a06-6348-7ef3-b88a-a74426e88799",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a15a06-5964-76f9-bada-c4d818be3ab1/main/1792511729456-cnvoxqnszz.webp",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a15a06-6330-70eb-8359-30f3c0a020d0",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a15a06-5964-76f9-bada-c4d818be3ab1/main/1792511729453-jw3j6cl3gp.webp",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a15a06-638b-7dab-b329-ea822026e854",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a15a06-5964-76f9-bada-c4d818be3ab1/main/1792511729457-6850kixxgu.webp",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a15a06-6318-7c5c-88ef-a9f167fa85ff",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a15a06-5964-76f9-bada-c4d818be3ab1/main/1792511729532-8rn637e0r9.webp",
+            "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -3196,6 +3278,7 @@
               }
             ],
             "slider": false,
+            "videos": [ ],
             "enabled": false,
             "endDate": null,
             "sortOrder": 0,
@@ -3217,6 +3300,7 @@
               }
             ],
             "slider": false,
+            "videos": [ ],
             "enabled": false,
             "endDate": null,
             "sortOrder": 1,
@@ -5059,7 +5143,10 @@
           ],
           "nameEn": ""
         }
-      ]
+      ],
+      "footer": {
+        "ruralStayMark": null
+      }
     }
   }
 }
