@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.9.0",
-    "generatedAt": "2026-10-20T15:55:38.890143598Z",
+    "version": "1.10.0",
+    "generatedAt": "2026-10-20T15:57:12.816097797Z",
     "templateType": "trip_e",
     "propertyId": "1b9cd168-bbe3-42c9-be14-a745d5cf959a",
     "homepageId": "80244944-71c2-4990-9c71-8c77c01181fa"
@@ -2668,9 +2668,17 @@
                 "title": "",
                 "images": [
                   {
+                    "id": "01a15a07-ea11-7e79-a681-11bb328ac2e9",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/80244944-71c2-4990-9c71-8c77c01181fa/index_essence/1792511829797-8m1rjl8x8f.webp",
+                    "sortOrder": 0,
+                    "description": "강의 전경을 바라보며 힐링의 시간",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
                     "id": "bdea44b4-4562-42e1-85b6-b2561b950275",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/80244944-71c2-4990-9c71-8c77c01181fa/index_essence/1787639819310-cstemvndqz.jpg",
-                    "sortOrder": 0,
+                    "sortOrder": 1,
                     "description": "자연과 함께하는 시원한 야외 물놀이 공간",
                     "isSelected": true,
                     "blockId": null
@@ -2678,7 +2686,7 @@
                   {
                     "id": "a0395588-e8eb-4551-8174-095c65ad5e44",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/80244944-71c2-4990-9c71-8c77c01181fa/index_essence/1787639819310-ffs0rpskg7.jpg",
-                    "sortOrder": 1,
+                    "sortOrder": 2,
                     "description": "따뜻한 물로 편안함을 더하는 휴식 공간",
                     "isSelected": true,
                     "blockId": null
@@ -2686,7 +2694,7 @@
                   {
                     "id": "69e3ce12-1ba1-4434-acf9-c40a50ae4a6e",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/80244944-71c2-4990-9c71-8c77c01181fa/index_essence/1787639819311-mewi8k498z.jpg",
-                    "sortOrder": 2,
+                    "sortOrder": 3,
                     "description": "프라이빗하게 즐기는 여유로운 바베큐 시간",
                     "isSelected": true,
                     "blockId": null
@@ -2694,7 +2702,7 @@
                   {
                     "id": "213d8ec7-c04f-4cf1-8dcd-3d76db2d1cd3",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/80244944-71c2-4990-9c71-8c77c01181fa/index_essence/1787639819311-pcx0kmqdaz.webp",
-                    "sortOrder": 3,
+                    "sortOrder": 4,
                     "description": "함께여서 더 즐거운 순간",
                     "isSelected": true,
                     "blockId": null
@@ -2702,7 +2710,7 @@
                   {
                     "id": "e995dcab-aee3-4f72-83bc-4ed2a606e755",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/80244944-71c2-4990-9c71-8c77c01181fa/index_essence/1787635612972-lx90gwlqaf.jpg",
-                    "sortOrder": 4,
+                    "sortOrder": 5,
                     "description": "가평 이오스펜션만의 특별함",
                     "isSelected": true,
                     "blockId": null
